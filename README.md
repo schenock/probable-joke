@@ -1,3 +1,3 @@
 ### probable-joke
 
-IEEE Paper: https://ieeexplore.ieee.org/document/8756622
+IEEE FG Paper: https://ieeexplore.ieee.org/document/8756622
